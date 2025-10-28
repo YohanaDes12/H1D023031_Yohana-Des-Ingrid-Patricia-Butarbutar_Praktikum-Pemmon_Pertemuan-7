@@ -80,14 +80,13 @@ Menyimpan angka pertama dan operator yang dipilih, kemudian menyiapkan tampilan 
 
 void _hitung()
 
-
 Menjalankan perhitungan berdasarkan operator yang tersimpan dan angka kedua yang dimasukkan pengguna.
 Menggunakan struktur switch untuk memilih operasi matematika yang sesuai.
 Termasuk penanganan pembagian dengan nol, di mana hasilnya akan menampilkan “Error”.
 
 4. Komponen Antarmuka (UI Building)
-Widget _tombol(String teks, {Color? warna, void Function()? onTekan, int flex = 1})
 
+Widget _tombol(String teks, {Color? warna, void Function()? onTekan, int flex = 1})
 
 Merupakan widget pembantu yang digunakan untuk membentuk tombol-tombol kalkulator.
 Widget ini mengatur tampilan seperti warna, bentuk, ukuran, serta aksi yang terjadi saat tombol ditekan.
@@ -141,6 +140,9 @@ Tombol hapus (C): merah
 | [  1  ]  [  2  ]  [  3  ]  [  .  ]          |
 | [             0  (lebar)             ]      |
 ----------------------------------------------
+
+<img width="1552" height="853" alt="image" src="https://github.com/user-attachments/assets/29a308b2-fd14-483f-83c5-cb0ceb869c76" />
+
 
 ## 🚀 Kesimpulan Pembelajaran
 
