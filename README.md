@@ -141,7 +141,7 @@ Tombol hapus (C): merah
 | [             0  (lebar)             ]      |
 ----------------------------------------------
 
-<img width="1552" height="853" alt="image" src="https://github.com/user-attachments/assets/29a308b2-fd14-483f-83c5-cb0ceb869c76" />
+<img width="552" height="853" alt="image" src="https://github.com/user-attachments/assets/29a308b2-fd14-483f-83c5-cb0ceb869c76" />
 
 
 ## 🚀 Kesimpulan Pembelajaran
