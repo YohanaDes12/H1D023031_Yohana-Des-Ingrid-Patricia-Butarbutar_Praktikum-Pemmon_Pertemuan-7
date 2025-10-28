@@ -1,4 +1,4 @@
-### Tuagas 6 Pertemuan 7_Praktikum Pemrograman Mobile
+### TUGAS-6-PERTEMUAN-7_PRAKTIKUM-PEMROGRAMAN-MOBILE
 
 ---
 ## 💻 Kalkulator Sederhana Berbasis Flutter UI
